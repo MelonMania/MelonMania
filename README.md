@@ -1,4 +1,11 @@
-### Welcome 👋
+### Introduce
+🤴🏻 Student who wants to become an IOS developer!
+
+![Woojin's github stats](https://github-readme-stats.vercel.app/api?username=MelonMania&show_icons=true)
+
+
+
+
 
 <!--
 **MelonMania/MelonMania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
