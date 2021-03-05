@@ -1,4 +1,4 @@
-# 🤴🏻 Student who wants to become an IOS developer!
+## 🤴🏻 Student who wants to become an IOS developer!
 
 * Language   
 <image src="https://user-images.githubusercontent.com/25768897/110124648-b154e800-7e05-11eb-80b3-0c49f508f9d4.png" height = "30"> <image src="https://user-images.githubusercontent.com/25768897/110124878-fe38be80-7e05-11eb-9d40-5dee28b2d0bb.png" height = "30">
